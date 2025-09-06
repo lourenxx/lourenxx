@@ -29,7 +29,7 @@ Atualmente trabalho com diversas stacks modernas, desde **.NET** no backend até
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lourenxx&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lourenxx&show_icons=true&theme=dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourenxx&layout=compact&theme=radical" />
 </p>
 
